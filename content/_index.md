@@ -17,6 +17,8 @@ I've been creating programs and games since I was a kid, teaching code since 202
 ---
 
 </div>
+<div>
+
 <div class="flex flex-row gap-4">
   <div class="text-left">
     <h3>Code Instructor</h3>
