@@ -17,7 +17,7 @@ title = "stirling-code.com"
 [params.author]
   name = "Stirling Gould"
   email = "stirlingagould@gmail.com"
-  image = "img/stirling_logo.png"
+  image = "stirling_logo.png"
   imageQuality = 96
   headline = "Software, Game Developer, Instructor"
   bio = "Software, Game Developer, Instructor"
