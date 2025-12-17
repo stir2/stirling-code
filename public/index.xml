@@ -9,7 +9,37 @@
     <managingEditor>stirlingagould@gmail.com (Stirling Gould)</managingEditor>
     <webMaster>stirlingagould@gmail.com (Stirling Gould)</webMaster>
     <copyright>© 2025 Stirling Gould</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Psycho-cybe</title>
+      <link>http://localhost:1313/projects/psycho-cybe/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <author>stirlingagould@gmail.com (Stirling Gould)</author>
+      <guid>http://localhost:1313/projects/psycho-cybe/</guid>
+      <description>Follow mushy the mushroom through his journey on an acid trip</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/psycho-cybe/cover.png" />
+    </item>
+    
+    <item>
+      <title>Arcade Escape</title>
+      <link>http://localhost:1313/projects/arcade_escape/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <author>stirlingagould@gmail.com (Stirling Gould)</author>
+      <guid>http://localhost:1313/projects/arcade_escape/</guid>
+      <description>Bribe a corrupt ticket machine to let you leave the arcade, while practicing fundamental math concepts</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/arcade_escape/cover.png" />
+    </item>
+    
+    <item>
+      <title>Every Villain is Lemons</title>
+      <link>http://localhost:1313/projects/every_villain_is_lemons/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <author>stirlingagould@gmail.com (Stirling Gould)</author>
+      <guid>http://localhost:1313/projects/every_villain_is_lemons/</guid>
+      <description>Manage a restaurant with your trusty supernatural blade!  But beware, its demonic powers have a price!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/every_villain_is_lemons/cover.png" />
+    </item>
     
   </channel>
 </rss>

@@ -16,13 +16,13 @@
     weight = 1
 
 [[main]]
-    name = "Portfolio"
-    url = "/#portfolio"
+    name = "Contact Me"
+    url = "/#contact"
     weight = 2
 
 [[main]]
-    name = "Contact"
-    url = "/#contact"
+    name = "Projects"
+    url = "/#projects"
     weight = 3
 
 #[[main]]

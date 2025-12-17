@@ -17,10 +17,10 @@ title = "stirling-code.com"
 [params.author]
   name = "Stirling Gould"
   email = "stirlingagould@gmail.com"
-  image = "img/blowfish_logo.png"
+  image = "img/stirling_logo.png"
   imageQuality = 96
   headline = "Software, Game Developer, Instructor"
-  bio = "A little bit about you"
+  bio = "Software, Game Developer, Instructor"
   links = [
     { email = "mailto:hello@stirling-code.com" },
 #     { link = "https://link-to-some-website.com/" },
