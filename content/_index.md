@@ -40,12 +40,12 @@ I've been creating programs and games since I was a kid, teaching code since 202
 
   <div class="text-left">
     <h3>Software QA Apprentice</h3>
-    <i>ThermoFisher • Summer 2025</i>
+    <i>ThermoFisher • Summer, Winter 2025</i>
     <p>✦ I participated in audits of the software development lifecycle for FDA-regulated computer systems. </p>
     <p>✦ Reviewed validation, change control, and maintenance of critical computer systems used in life sciences. </p>
 
 {{< keywordList >}}
-{{< keyword icon="code" >}} Azure Development {{< /keyword >}}
+{{< keyword icon="code" >}} Agile Development {{< /keyword >}}
 {{< keyword icon="circle-info" >}} System Validation {{< /keyword >}}
 {{< keyword icon="fork" >}} Jira {{< /keyword >}}
 {{< keyword icon="check" >}} Unit Testing {{< /keyword >}}

@@ -12,7 +12,7 @@
     <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Psycho-cybe</title>
+      <title>Psycho-cybe (in development)</title>
       <link>http://localhost:1313/projects/psycho-cybe/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <author>stirlingagould@gmail.com (Stirling Gould)</author>
@@ -39,6 +39,26 @@
       <guid>http://localhost:1313/projects/every_villain_is_lemons/</guid>
       <description>Manage a restaurant with your trusty supernatural blade!  But beware, its demonic powers have a price!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/every_villain_is_lemons/cover.png" />
+    </item>
+    
+    <item>
+      <title>World&#39;s Hardest Game Emulator</title>
+      <link>http://localhost:1313/projects/whg_emulator/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <author>stirlingagould@gmail.com (Stirling Gould)</author>
+      <guid>http://localhost:1313/projects/whg_emulator/</guid>
+      <description>Ported &amp;ldquo;World&amp;rsquo;s Hardest Game&amp;rdquo; by Stephen Critoph to a non-flash platform</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/whg_emulator/cover.png" />
+    </item>
+    
+    <item>
+      <title>My old Scratch projects</title>
+      <link>http://localhost:1313/projects/scratch_projects/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <author>stirlingagould@gmail.com (Stirling Gould)</author>
+      <guid>http://localhost:1313/projects/scratch_projects/</guid>
+      <description>An archive of the projects I made while learning the basics.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/scratch_projects/cover.png" />
     </item>
     
   </channel>

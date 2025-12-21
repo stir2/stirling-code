@@ -13,7 +13,6 @@ title = "stirling-code.com"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
-
 [params.author]
   name = "Stirling Gould"
   email = "stirlingagould@gmail.com"
